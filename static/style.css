@@ -1,0 +1,27 @@
+.container {
+    text-align: center;
+    display: block;
+    padding-top:21em
+}
+
+.main-title {
+    font-size: 4.5em;
+    font-family:sans-serif;
+    letter-spacing:5px;
+    background: linear-gradient(to right, #FFBF81 , #53A2BE, #8B2635, #FC6471, #FDE74C);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 60px;
+    z-index:1;
+    text-shadow:3px 1px 1px rgba(153, 153, 255, 0.3);
+}
+
+.quote-text {
+    text-align:center;
+    font-size:1.4em
+}
+
+body {
+    display: block;
+    margin: 30px 15px;
+}
